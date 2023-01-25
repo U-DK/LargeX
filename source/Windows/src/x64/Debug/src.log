@@ -1,0 +1,8 @@
+﻿  src.cpp
+D:\VSProject\CPP\LargeX\src\src\src.cpp(169,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  tool.cpp
+D:\VSProject\CPP\LargeX\src\src\tool.cpp(17,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VSProject\CPP\LargeX\src\src\tool.cpp(145,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  unittest.cpp
+  Generating Code...
+  src.vcxproj -> D:\VSProject\CPP\LargeX\src\x64\Debug\src.exe

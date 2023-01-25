@@ -1,0 +1,9 @@
+﻿  src.cpp
+D:\VSProject\CPP\LargeX\src\src\src.cpp(198,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\VSProject\CPP\LargeX\src\x64\Release\src.lib and object D:\VSProject\CPP\LargeX\src\x64\Release\src.exp
+  Generating code
+  6 of 1558 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  src.vcxproj -> D:\VSProject\CPP\LargeX\src\x64\Release\src.exe
